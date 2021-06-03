@@ -28,5 +28,6 @@ Currently, I'm focused on the front-end.
 ![Styled Components Badge](https://img.shields.io/badge/StyledComponents-323330?logo=styled-components)
 ![Sass Badge](https://img.shields.io/badge/Sass-323330?logo=Sass)
 ![Express Badge](https://img.shields.io/badge/Express-323330?logo=Express)
+![ChakraUI Badge](https://img.shields.io/badge/ChakraUI-323330?logo=Chakra-UI)
 
 
